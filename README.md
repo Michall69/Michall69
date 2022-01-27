@@ -2,7 +2,7 @@
 
 - 💼 Currently working on private projects
 - 💻 Languages I currently use or learning: Java, JavaScript, Kotlin, NodeJS and PHP
-- 📫 You can contact me by discord: Michall#9999
+- 📫 You can contact me by discord: michal#1337
 - 💸 Want to support me?: <a href="https://www.buymeacoffee.com/Michal;">Buy me a coffee ☕</a>
 
 #### > GitHub stats:
