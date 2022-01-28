@@ -2,6 +2,7 @@
 
 - 💼 Currently working on private projects
 - 💻 Languages I currently use or learning: Java, JavaScript, Kotlin, NodeJS and PHP
+- 🌐 Translating open and closed source projects English -> Polish (and vice versa)
 - 📫 You can contact me by discord: michal#1337
 - 💸 Want to support me?: <a href="https://www.buymeacoffee.com/Michal;">Buy me a coffee ☕</a>
 
