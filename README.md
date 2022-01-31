@@ -9,6 +9,8 @@
 #### > GitHub stats:
 <a href="https://github.com/Michall69">
   <img align="center" width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=Michall69&show_icons=true&theme=tokyonight" />
+
+#### > Top languages used:
 <a href="https://github.com/Michall69">
 <img align="center" width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michall69&layout=compact&theme=tokyonight" />
 </a>
